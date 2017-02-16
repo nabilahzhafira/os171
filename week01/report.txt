@@ -1,0 +1,1 @@
+Pada task week1 kali ini, kami diajarkan bagaimana melakukan clone git repository, intro terhadap git, intro terhadap CLI, dan belajar scripting. 
