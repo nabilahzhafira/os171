@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 nabilah.zhafira StafCS 4096 Feb 16 23:30 .
+drwx--x--x  3 nabilah.zhafira StafCS 4096 Feb 16 22:06 ..
+drwxr-xr-x  8 nabilah.zhafira StafCS 4096 Feb 16 23:29 .git
+drwxr-xr-x  2 nabilah.zhafira StafCS 4096 Feb 16 22:36 key
+-rw-r--r--  1 nabilah.zhafira StafCS    0 Feb 16 23:30 lab01.txt
+drwxr-xr-x  2 nabilah.zhafira StafCS 4096 Feb 16 22:35 log
+-rw-r--r--  1 nabilah.zhafira StafCS    7 Feb 16 22:06 README.md
+drwxr-xr-x  2 nabilah.zhafira StafCS 4096 Feb 16 22:48 sandbox
+drwxr-xr-x  2 nabilah.zhafira StafCS 4096 Feb 16 23:24 week00
+drwxr-xr-x  2 nabilah.zhafira StafCS 4096 Feb 16 22:31 week01
+drwxr-xr-x  2 nabilah.zhafira StafCS 4096 Feb 16 22:31 week02
+drwxr-xr-x  2 nabilah.zhafira StafCS 4096 Feb 16 22:31 week03
+drwxr-xr-x  2 nabilah.zhafira StafCS 4096 Feb 16 22:32 week04
+drwxr-xr-x  2 nabilah.zhafira StafCS 4096 Feb 16 22:32 week05
+drwxr-xr-x  2 nabilah.zhafira StafCS 4096 Feb 16 22:33 week06
+drwxr-xr-x  2 nabilah.zhafira StafCS 4096 Feb 16 22:34 week07
+drwxr-xr-x  2 nabilah.zhafira StafCS 4096 Feb 16 22:34 week08
+drwxr-xr-x  2 nabilah.zhafira StafCS 4096 Feb 16 22:34 week09
+drwxr-xr-x  2 nabilah.zhafira StafCS 4096 Feb 16 22:35 week10
+drwxr-xr-x  2 nabilah.zhafira StafCS 4096 Feb 16 22:36 xtra
+/home/fasilkom/mahasiswa/n/nabilah.zhafira/os171/week01
