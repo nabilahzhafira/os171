@@ -1,0 +1,2 @@
+Pada task week 0 (minggu lalu), kami diajarkan untuk menggunakan github dan server badak. Yaitu diajarkan bagaimana log-in github, dan mengakses server badak. #nabilah_zhafira
+
