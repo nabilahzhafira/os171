@@ -1,0 +1,26 @@
+w00-070217-13-LR-About: Introducing to Operating System, From: Lecturer
+w00-070217-13-LR-About: Introducing to Operating System, From: Lecturer
+w00-070217-14-LR-About: Introducing to Operating System, From: Lecturer
+w00-070217-14-LR-About: Introducing to Operating System, From: Lecturer
+w00-090217-13-LR-About: Introducing to Operating System, From: Lecturer
+w00-090217-13-LR-About: Introducing to Operating System, From: Lecturer
+w00-090217-14-LR-About: Introducing to Operating System, From: Lecturer
+w00-090217-14-LR-About: Introducing to Operating System, From: Lecturer
+w00-090217-18-PS-About: GITHUB Learning
+w00-090217-18-PS-About: GITHUB Learning
+w00-090217-19-PS-About: GITHUB Learning
+w00-100217-20-PS-About: Badak Server
+w00-100217-20-PS-About: Badak Server
+w00-100217-20-PS-About: Badak Server
+w01-140217-13-LR-About: Commands for Programmers (Words Count, tee, cat, split), Job Control, Pipelines ,From: Lecturer
+w01-140217-13-LR-About: Commands for Programmers (Words Count, tee, cat, split), Job Control, Pipelines, From: Lecturer
+w01-140217-14-LR-About: Commands for Programmers (Words Count, tee, cat, split), Job Control, Pipelines ,From: Lecturer
+w01-140217-14-LR-About: Commands for Programmers (Words Count, tee, cat, split), Job Control, Pipelines ,From: Lecturer
+w01-160217-13-LR-About: AWK, SED, Regex, Regular Expressions, From: Lecturer
+w01-160217-13-LR-About: AWK, SED, Regex, Regular Expressions, From: Lecturer
+w01-160217-14-LR-About: AWK, SED, Regex, Regular Expressions, From: Lecturer
+w01-160217-14-LR-About: AWK, SED, Regex, Regular Expressions, From: Lecturer
+w01-160217-21-PS-About: Clone Git Repository, Intro to Git, Intro to CLI, Intro to Scripting
+w01-160217-22-PS-About: Clone Git Repository, Intro to Git, Intro to CLI, Intro to Scripting
+w01-160217-22-PS-About: Clone Git Repository, Intro to Git, Intro to CLI, Intro to Scripting
+w01-160217-23-PS-About: Clone Git Repository, Intro to Git, Intro to CLI, Intro to Scripting
