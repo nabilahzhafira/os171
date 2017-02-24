@@ -12,6 +12,8 @@ w00-090217-19-PS-About: GITHUB Learning
 w00-100217-20-PS-About: Badak Server
 w00-100217-20-PS-About: Badak Server
 w00-100217-20-PS-About: Badak Server
+
+
 w01-140217-13-LR-About: Commands for Programmers (Words Count, tee, cat, split), Job Control, Pipelines ,From: Lecturer
 w01-140217-13-LR-About: Commands for Programmers (Words Count, tee, cat, split), Job Control, Pipelines, From: Lecturer
 w01-140217-14-LR-About: Commands for Programmers (Words Count, tee, cat, split), Job Control, Pipelines ,From: Lecturer
@@ -24,3 +26,29 @@ w01-160217-21-PS-About: Clone Git Repository, Intro to Git, Intro to CLI, Intro 
 w01-160217-22-PS-About: Clone Git Repository, Intro to Git, Intro to CLI, Intro to Scripting
 w01-160217-22-PS-About: Clone Git Repository, Intro to Git, Intro to CLI, Intro to Scripting
 w01-160217-23-PS-About: Clone Git Repository, Intro to Git, Intro to CLI, Intro to Scripting
+
+
+w02-230217-13-LR-About: Encryption, From: Lecturer
+w02-230217-13-LR-About: Encryption, From: Lecturer
+w02-230217-14-LR-About: Encryption, From: Lecturer
+w02-230217-14-LR-About: Encryption, From: Lecturer
+w02-240217-21-PS-About: WinSCP
+w02-240217-21-PS-About: WinSCP
+w02-240217-22-PS-About: WinSCP
+w02-240217-22-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG
+w02-240217-23-PS-About: Privacy Matters, Encryption and Digital Signature using G$
+w02-240217-23-PS-About: Privacy Matters, Encryption and Digital Signature using G$
+w02-240217-24-PS-About: Privacy Matters, Encryption and Digital Signature using G$
+w02-240217-24-PS-About: Privacy Matters, Encryption and Digital Signature using G$
+w02-250217-00-PS-About: Privacy Matters, Encryption and Digital Signature using G$
+w02-250217-00-PS-About: Privacy Matters, Encryption and Digital Signature using G$
+w02-250217-01-PS-About: Privacy Matters, Encryption and Digital Signature using G$
+w02-250217-01-PS-About: Privacy Matters, Encryption and Digital Signature using G$
+
+
+
+
+
+
+
+
