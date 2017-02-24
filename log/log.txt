@@ -37,9 +37,9 @@ w02-240217-21-PS-About: WinSCP
 w02-240217-22-PS-About: WinSCP
 w02-240217-22-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG
 w02-240217-23-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG
-w02-240217-23-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG
-w02-240217-24-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG
-w02-240217-24-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG
+w02-240217-23-PS-About: Intro to C
+w02-240217-24-PS-About: Intro to C
+w02-240217-24-PS-About: Intro to C
 w02-250217-00-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG
 w02-250217-00-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG
 w02-250217-01-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG
