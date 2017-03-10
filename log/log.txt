@@ -60,6 +60,21 @@ w03-030317-17-ps-About: Privacy Matters, Encryption, and Digital Signature using
 w03-030317-17-ps-About: Privacy Matters, Encryption, and Digital Signature using $
 
 
-
-
+w04-070317-13-LR-About: Memory, From: Lecturer
+w04-070317-13-LR-About: Memory, From: Lecturer
+w04-070317-14-LR-About: Memory, From: Lecturer
+w04-070317-14-LR-About: Memory, From: Lecturer
+w04-090317-13-LR-About: Memory, From: Lecturer
+w04-090317-13-LR-About: Memory, From: Lecturer
+w04-090317-14-LR-About: Memory, From: Lecturer
+w04-090317-14-LR-About: Memory, From: Lecturer
+w04-100317-13-PS-About: Global Variable Address vs Local Variable Address
+w04-100317-13-PS-About: Global Variable Address vs Local Variable Address
+w04-100317-14-PS-About: Global Variable Address vs Local Variable Address
+w04-100317-14-PS-About: Pointer
+w04-100317-15-PS-About: Pointer
+w04-100317-15-PS-About: Pointer
+w04-100317-16-PS-About: Pointer
+w04-100317-19-PS-About: I/O Process
+w04-100317-19-PS-About: I/O Process
 
