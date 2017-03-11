@@ -64,10 +64,10 @@ w04-070317-13-LR-About: Memory, From: Lecturer
 w04-070317-13-LR-About: Memory, From: Lecturer
 w04-070317-14-LR-About: Memory, From: Lecturer
 w04-070317-14-LR-About: Memory, From: Lecturer
-w04-090317-13-LR-About: Memory, From: Lecturer
-w04-090317-13-LR-About: Memory, From: Lecturer
-w04-090317-14-LR-About: Memory, From: Lecturer
-w04-090317-14-LR-About: Memory, From: Lecturer
+w04-090317-13-LR-About: I/O Pointer, From: Lecturer
+w04-090317-13-LR-About: I/O Pointer, From: Lecturer
+w04-090317-14-LR-About: I/O Pointer, From: Lecturer
+w04-090317-14-LR-About: I/O Pointer, From: Lecturer
 w04-100317-13-PS-About: Global Variable Address vs Local Variable Address
 w04-100317-13-PS-About: Global Variable Address vs Local Variable Address
 w04-100317-14-PS-About: Global Variable Address vs Local Variable Address
