@@ -78,3 +78,29 @@ w04-100317-16-PS-About: Pointer
 w04-100317-19-PS-About: I/O Process
 w04-100317-19-PS-About: I/O Process
 
+
+w05-170313-16-LR-About: O_CREAT, O_RDONLY, OWRONLY 
+w05-170313-16-LR-About: I/O, S_IRUSR, S_IXUSR, S_IWGRP, S_IROTH 
+w05-170314-16-LR-About: Address Binding & Linking
+w05-170314-16-LR-About: Address Binding & Linking
+w05-170314-17-LR:About: MMU 
+w05-170314-17-LR:About: Memory Allocation
+w05-170315-17-LR:About: Memory Allocation
+w05-170315-18-LR:About: Memory Allocation
+w05-170315-18-LR:About: Memory Allocation
+w05-170315-19-LR:About: Fragmentasi
+w05-170315-19-LR:About: Fragmentasi
+w05-170316-13-LR-About: Swapping From: Lecturer
+w05-170316-13-PS-About: FIFO, LRU, Optimalization From: Lecturer
+w05-170316-14-PS-About: PTE, PT1, PT2, offset From: Lecturer
+w05-170316-14-PS-About: PTE, PT1, PT2, offset From: Lecturer
+w05-170316-18-PS-About: Paging
+w05-170316-18-PS-About: Paging
+w05-170316-19-PS-About: Paging
+w05-170316-19-PS-About: Paging
+w05-170317-12-PS-About: Memory
+w05-170317-12-PS-About: Memory
+w05-170317-13-PS-About: Memory
+w05-170317-13-PS-About: Memory
+w05-170317-16-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG
+w05-170317-16-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG
