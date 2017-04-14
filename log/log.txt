@@ -104,3 +104,24 @@ w05-170317-13-PS-About: Memory
 w05-170317-13-PS-About: Memory
 w05-170317-16-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG
 w05-170317-16-PS-About: Privacy Matters, Encryption and Digital Signature using GnuPG
+
+
+w06-170406-13-LR-About: Fork (PID, PPID), From: Lecturer
+w06-170406-13-LR-About: Fork (PID, PPID), From: Lecturer
+w06-170406-14-LR-About: Fork (PID, PPID), From: Lecturer
+w06-170406-14-LR-About: Fork (PID, PPID), From: Lecturer
+
+w06-170414-19-LR-About: Fork
+w06-170414-19-LR-About: Fork (PID, PPID)
+w06-170414-20-LR-About: Fork (PID, PPID)
+w06-170414-20-LR-About: Fork (PID, PPID)
+w06-170414-21-LR-About: Fork Code, Tree
+w06-170414-21-LR-About: Fork Code, Tree
+w06-170415-00-PS-About: Fork
+w06-170415-00-PS-About: Fork
+w06-170415-01-PS-About: Learning Fork
+w06-170415-01-PS-About: Learning Fork
+w06-170415-02-PS-About: Fork Code
+w06-170415-02-PS-About: Fork Code
+
+
