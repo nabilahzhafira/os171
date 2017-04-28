@@ -140,6 +140,21 @@ w08-170421-24-PS-About: Synchronization
 w08-170422-00-PS-About: Learning Synchronization
 w08-170422-00-PS-About: Learning Synchronization
 w08-170422-01-PS-About: Learning Synchronization
-w07-170422-01-PS-About: Exercise (Modify 50-readwrite.c)
-w07-170422-02-PS-About: Exercise (Modify 50-readwrite.c)
+w08-170422-01-PS-About: Exercise (Modify 50-readwrite.c)
+w08-170422-02-PS-About: Exercise (Modify 50-readwrite.c)
+
+
+w09-250418-13-LR-About: Learning in Class, From: Lecturer
+w09-250418-13-LR-About: Learning in Class, From: Lecturer
+w09-250418-14-LR-About: Learning in Class, From: Lecturer
+w09-250418-14-LR-About: Learning in Class, From: Lecturer
+w09-250418-16-PS-About: Lab Sockets
+w09-250418-16-PS-About: Lab Sockets
+w09-250418-17-PS-About: Lab Sockets
+w09-250418-17-PS-About: Lab Sockets
+w09-250418-16-PS-About: Lab Sockets
+w09-270418-13-LR-About: Learning in Class, From: Lecturer
+w09-270418-13-LR-About: Learning in Class, From: Lecturer
+w09-270418-14-LR-About: Learning in Class, From: Lecturer
+w09-270418-14-LR-About: Learning in Class, From: Lecturer
 
