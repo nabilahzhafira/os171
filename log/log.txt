@@ -155,8 +155,8 @@ w09-250418-16-PS-About: Lab Sockets
 w09-250418-17-PS-About: Lab Sockets
 w09-250418-17-PS-About: Lab Sockets
 w09-250418-16-PS-About: Lab Sockets
-w09-270418-13-LR-About: Learning in Class, From: Lecturer
-w09-270418-13-LR-About: Learning in Class, From: Lecturer
-w09-270418-14-LR-About: Learning in Class, From: Lecturer
-w09-270418-14-LR-About: Learning in Class, From: Lecturer
+w09-270418-13-LR-About: Sockets, From: Lecturer
+w09-270418-13-LR-About: Sockets, From: Lecturer
+w09-270418-14-LR-About: Sockets, From: Lecturer
+w09-270418-14-LR-About: Sockets, From: Lecturer
 
