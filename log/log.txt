@@ -160,3 +160,22 @@ w09-270418-13-LR-About: Sockets, From: Lecturer
 w09-270418-14-LR-About: Sockets, From: Lecturer
 w09-270418-14-LR-About: Sockets, From: Lecturer
 
+w10-170507-19-PS-About: Learning for UAS (Fork)
+w10-170507-19-PS-About: Learning for UAS (Fork)
+w10-170507-20-PS-About: Learning for UAS (Fork)
+w10-170507-20-PS-About: Learning for UAS (Fork)
+w10-170507-21-PS-About: Learning for UAS (Synchronization)
+w10-170507-21-PS-About: Learning for UAS (Synchronization)
+w10-170509-19-PS-About: Lab Week09, from: Youtube
+w10-170509-19-PS-About: Lab Week09, from: Youtube
+
+w11-170515-19-PS-About: Lab Week10, from: Youtube
+w11-170515-19-PS-About: Lab Week10, from: Youtube
+w11-170516-19-PS-About: Learning for UAS (Scheduling)
+w11-170516-19-PS-About: Learning for UAS (Scheduling)
+w11-170516-20-PS-About: Learning for UAS (Scheduling)
+w11-170518-20-PS-About: Learning for UAS (CPU Utilization)
+w11-170518-20-PS-About: Learning for UAS (CPU Utilization)
+w11-170518-21-PS-About: Learning for UAS (CPU Utilization)
+w11-170518-21-PS-About: Learning for UAS (CPU Utilization)
+
